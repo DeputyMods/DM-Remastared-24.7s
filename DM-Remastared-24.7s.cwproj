@@ -1,0 +1,21 @@
+<CodeWalkerProject>
+  <Name>DM-Remastared-24.7s</Name>
+  <Version value="0.4" />
+  <YmapFilenames>
+    <Item>sandy.247.ymap</Item>
+    <Item>hwy-55.247.ymap</Item>
+    <Item>hwy-55-2.247.ymap</Item>
+    <Item>hwy-55-3.247.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
